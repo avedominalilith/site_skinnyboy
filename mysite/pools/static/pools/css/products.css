@@ -1,0 +1,717 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-spline-sans-mono: "Spline Sans Mono";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-red-100: #f11414;
+  --color-red-200: #ff0000;
+}
+.bcaa,
+.div,
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 20px;
+  left: 51px;
+  font-size: var(--font-size-17xl);
+  line-height: 100%;
+  font-weight: 700;
+  color: var(--color-red-200);
+}
+.bcaa,
+.div1,
+.div2,
+.div3 {
+  top: 523px;
+  left: 65px;
+}
+.bcaa,
+.div2,
+.div3 {
+  top: 1049px;
+}
+.div2,
+.div3 {
+  top: 1577px;
+}
+.div3 {
+  top: 2126px;
+  left: 61px;
+}
+.protein1-1-icon {
+  position: absolute;
+  top: 93px;
+  left: 65px;
+  width: 165px;
+  height: 259px;
+  object-fit: cover;
+}
+.optimum-nutriton,
+.syntrax {
+  display: inline-block;
+  width: 209px;
+}
+.optimum-nutriton {
+  position: absolute;
+  top: 389px;
+  left: 65px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.syntrax {
+  top: 382px;
+  left: 413px;
+}
+.div4,
+.qnt-delicious,
+.syntrax {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div4 {
+  top: 439px;
+  left: 65px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.qnt-delicious {
+  top: 387px;
+  left: 1180px;
+  display: inline-block;
+  width: 209px;
+}
+.span {
+  color: #ff0303;
+}
+.div5,
+.whey-protein-908-container {
+  position: absolute;
+  top: 407px;
+  left: 1180px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div5 {
+  top: 440px;
+  left: 1185px;
+  font-size: var(--font-size-5xl);
+}
+.div5,
+.span1 {
+  color: var(--color-red-200);
+}
+.matrix-20-907-container {
+  top: 409px;
+  left: 402px;
+  display: inline-block;
+  width: 220px;
+}
+.div6,
+.matrix-20-907-container,
+.optimum-nutriton1 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div6 {
+  top: 439px;
+  left: 413px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.optimum-nutriton1 {
+  top: 389px;
+  left: 780px;
+  display: inline-block;
+  width: 209px;
+}
+.gold-standart-2500-container {
+  top: 409px;
+  left: 780px;
+}
+.div7,
+.gold-standart-2500-container,
+.qnt {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div7 {
+  top: 442px;
+  left: 785px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.qnt {
+  top: 858px;
+  left: 70px;
+  display: inline-block;
+  width: 209px;
+}
+.muscle-mass-3000-container {
+  top: 878px;
+  left: 70px;
+}
+.div8,
+.mass-xxl-3000-container,
+.muscle-mass-3000-container,
+.trec-nutrition {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div8 {
+  top: 909px;
+  left: 72px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.mass-xxl-3000-container,
+.trec-nutrition {
+  left: 1185px;
+}
+.trec-nutrition {
+  top: 856px;
+  display: inline-block;
+  width: 209px;
+}
+.mass-xxl-3000-container {
+  top: 876px;
+}
+.div9 {
+  top: 909px;
+  left: 1180px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.academy-t,
+.div9,
+.sportein-gainer-750-container {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.academy-t {
+  top: 855px;
+  left: 418px;
+  display: inline-block;
+  width: 209px;
+}
+.sportein-gainer-750-container {
+  top: 876px;
+  left: 409px;
+}
+.gainer2-1-icon {
+  position: absolute;
+  top: 582px;
+  left: 434px;
+  width: 166px;
+  height: 240px;
+  object-fit: cover;
+}
+.div10 {
+  position: absolute;
+  top: 908px;
+  left: 418px;
+  font-size: var(--font-size-5xl);
+  line-height: 100%;
+  font-weight: 700;
+  color: var(--color-red-200);
+}
+.div11,
+.mega-mass-4000,
+.weider-3000-container {
+  position: absolute;
+  left: 785px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.mega-mass-4000 {
+  top: 858px;
+  display: inline-block;
+  width: 209px;
+}
+.div11,
+.weider-3000-container {
+  top: 878px;
+}
+.div11 {
+  top: 909px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.protein2-1-icon,
+.protein3-1-icon,
+.protein4-1-icon {
+  position: absolute;
+  top: 93px;
+  left: 346px;
+  width: 300px;
+  height: 271px;
+  object-fit: cover;
+}
+.protein3-1-icon,
+.protein4-1-icon {
+  left: 797px;
+  width: 176px;
+}
+.protein4-1-icon {
+  top: 96px;
+  left: 1125px;
+  width: 293px;
+  height: 265px;
+}
+.gainer1-1-icon,
+.gainer3-1-icon,
+.gainer4-1-icon {
+  position: absolute;
+  top: 572px;
+  left: 94px;
+  width: 150px;
+  height: 259px;
+  object-fit: cover;
+}
+.gainer3-1-icon,
+.gainer4-1-icon {
+  top: 563px;
+  left: 747px;
+  width: 276px;
+  height: 282px;
+}
+.gainer4-1-icon {
+  top: 588px;
+  left: 1137px;
+  width: 270px;
+  height: 234px;
+}
+.be-first {
+  position: absolute;
+  top: 1387px;
+  left: 75px;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+  width: 209px;
+}
+.span7 {
+  color: #fd0000;
+}
+.bcaa-211-container {
+  top: 1407px;
+  left: 75px;
+}
+.bcaa-211-container,
+.div12,
+.trec-nutrition1 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div12 {
+  top: 1437px;
+  left: 75px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.trec-nutrition1 {
+  top: 1385px;
+  left: 1190px;
+  display: inline-block;
+  width: 209px;
+}
+.bcaa-g-force-90-container {
+  top: 1405px;
+  left: 1190px;
+}
+.bcaa-g-force-90-container,
+.div13,
+.optimum-nutrition {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div13 {
+  top: 1446px;
+  left: 1199px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.optimum-nutrition {
+  top: 1382px;
+  left: 423px;
+  display: inline-block;
+  width: 209px;
+}
+.span9 {
+  color: #ff0505;
+}
+.bcaa-1000-caps-container,
+.div14 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.bcaa-1000-caps-container {
+  top: 1405px;
+  left: 409px;
+  display: inline-block;
+  width: 265px;
+}
+.div14 {
+  top: 1437px;
+  left: 423px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.bcaa-1000-caps-container1,
+.div15,
+.trec-nutrition2 {
+  position: absolute;
+  left: 790px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.trec-nutrition2 {
+  top: 1387px;
+  display: inline-block;
+  width: 209px;
+}
+.bcaa-1000-caps-container1,
+.div15 {
+  top: 1407px;
+}
+.div15 {
+  top: 1440px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+}
+.bcaa1-1-icon {
+  position: absolute;
+  top: 1118px;
+  left: 61px;
+  width: 226px;
+  height: 255px;
+  object-fit: cover;
+}
+.bcaa2-1-icon,
+.bcaa3-1-icon,
+.bcaa4-1-icon {
+  position: absolute;
+  top: 1093px;
+  left: 394px;
+  width: 257px;
+  height: 280px;
+  object-fit: cover;
+}
+.bcaa3-1-icon,
+.bcaa4-1-icon {
+  top: 1106px;
+  left: 776px;
+  width: 278px;
+  height: 253px;
+}
+.bcaa4-1-icon {
+  top: 1084px;
+  left: 1146px;
+  width: 297px;
+  height: 297px;
+}
+.prime-craft {
+  position: absolute;
+  top: 1972px;
+  left: 65px;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+  width: 214px;
+}
+.monohydrate-200-container {
+  top: 1990px;
+  left: 65px;
+  width: 235px;
+}
+.div16,
+.monohydrate-200-container,
+.qnt1 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.div16 {
+  top: 2022px;
+  left: 65px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.qnt1 {
+  top: 1970px;
+  left: 1185px;
+  width: 214px;
+}
+.monohydrate-800-container {
+  top: 1990px;
+  left: 1185px;
+  width: 222px;
+}
+.div17,
+.monohydrate-800-container,
+.trec-nutrition3 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.div17 {
+  top: 2019px;
+  left: 1190px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.trec-nutrition3 {
+  top: 1969px;
+  left: 399px;
+  width: 214px;
+}
+.span13 {
+  color: var(--color-red-100);
+}
+.creatine-100-300-container {
+  top: 1995px;
+  left: 389px;
+  width: 271px;
+}
+.creatine-100-300-container,
+.creatine-300-container,
+.div18,
+.div19,
+.scitec-nutrition {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.div18 {
+  top: 2022px;
+  left: 399px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.creatine-300-container,
+.div19,
+.scitec-nutrition {
+  top: 1972px;
+  left: 775px;
+  width: 214px;
+}
+.creatine-300-container,
+.div19 {
+  top: 1992px;
+  width: 256px;
+}
+.div19 {
+  top: 2025px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.creatine1-1-icon,
+.creatine2-1-icon {
+  position: absolute;
+  top: 1648px;
+  left: 81px;
+  width: 186px;
+  height: 272px;
+  object-fit: cover;
+}
+.creatine2-1-icon {
+  top: 1679px;
+  left: 389px;
+  width: 276px;
+  height: 244px;
+}
+.creatine3-1-icon,
+.creatine4-1-icon {
+  position: absolute;
+  top: 1671px;
+  left: 768px;
+  width: 294px;
+  height: 249px;
+  object-fit: cover;
+}
+.creatine4-1-icon {
+  top: 1659px;
+  left: 1170px;
+  width: 229px;
+  height: 250px;
+}
+.bombbar {
+  position: absolute;
+  top: 2450px;
+  left: 65px;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+  width: 214px;
+}
+.nuts-20-container {
+  top: 2473px;
+  left: 65px;
+  width: 235px;
+}
+.bombbar1,
+.div20,
+.nuts-20-container {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.div20 {
+  top: 2500px;
+  left: 65px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.bombbar1 {
+  top: 2448px;
+  left: 1185px;
+  width: 214px;
+}
+.protein-60-container {
+  top: 2468px;
+  left: 1185px;
+  width: 222px;
+}
+.bombbar2,
+.div21,
+.protein-60-container {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.div21 {
+  top: 2497px;
+  left: 1194px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.bombbar2 {
+  top: 2447px;
+  left: 399px;
+  width: 214px;
+}
+.protein-600-container {
+  top: 2470px;
+  left: 389px;
+  width: 224px;
+}
+.bombbar3,
+.cofe-and-nuts-container,
+.div22,
+.div23,
+.protein-600-container {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.div22 {
+  top: 2500px;
+  left: 399px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.bombbar3,
+.cofe-and-nuts-container,
+.div23 {
+  top: 2450px;
+  left: 775px;
+  width: 214px;
+}
+.cofe-and-nuts-container,
+.div23 {
+  top: 2473px;
+  width: 256px;
+}
+.div23 {
+  top: 2503px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-red-200);
+  width: 75px;
+}
+.bar-1-icon {
+  position: absolute;
+  top: 2201px;
+  left: 72px;
+  width: 201px;
+  height: 210px;
+  object-fit: cover;
+}
+.bar2-1-icon,
+.bar3-1-icon,
+.bar4-1-icon {
+  position: absolute;
+  top: 2202px;
+  left: 412px;
+  width: 231px;
+  height: 212px;
+  object-fit: cover;
+}
+.bar3-1-icon,
+.bar4-1-icon {
+  top: 2178px;
+  left: 750px;
+  width: 288px;
+  height: 256px;
+}
+.bar4-1-icon {
+  top: 2157px;
+  left: 1124px;
+  width: 344px;
+  height: 267px;
+}
+.whey-protein-2500-container {
+  position: absolute;
+  top: 412px;
+  left: 65px;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+  width: 241px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2899px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-spline-sans-mono);
+}
+
+

@@ -1,0 +1,145 @@
+    body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-red-100: #ff0000;
+}
+
+ .span {
+  font-weight: 900;
+}
+.p {
+  margin: 0;
+}
+.blank-line1 {
+  font-weight: 600;
+}
+.span3 {
+  color: #ff0404;
+}
+.txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.div {
+  position: absolute;
+  top: 32px;
+  left: 48px;
+  display: flex;
+  align-items: center;
+  width: 419px;
+  height: 78px;
+}
+.span4 {
+  color: var(--color-red-100);
+}
+.div1 {
+  position: absolute;
+  top: 164px;
+  left: 48px;
+  font-weight: 600;
+}
+.span7 {
+  color: #fe0000;
+}
+.div2,
+.div3 {
+  font-weight: 600;
+}
+.div2 {
+  position: absolute;
+  top: 254px;
+  left: 48px;
+}
+.div3 {
+  top: 326px;
+}
+.b,
+.b1,
+.b2,
+.b3,
+.div3,
+.div4 {
+  position: absolute;
+  left: 48px;
+}
+.div4 {
+  top: 405px;
+  font-weight: 900;
+}
+.b,
+.b1,
+.b2,
+.b3 {
+  top: 447px;
+}
+.b1,
+.b2,
+.b3 {
+  top: 489px;
+}
+.b2,
+.b3 {
+  top: 531px;
+}
+.b3 {
+  top: 596px;
+}
+.b4,
+.b5,
+.skinny,
+.tuguchev {
+  position: absolute;
+  top: 625px;
+  left: 48px;
+}
+.b4,
+.b5,
+.skinny {
+  top: 667px;
+}
+.b5,
+.skinny {
+  top: 704px;
+}
+.skinny {
+  top: 995px;
+}
+.magazine1-1-icon {
+  position: absolute;
+  top: 363px;
+  left: 720px;
+  width: 691px;
+  height: 466px;
+  object-fit: cover;
+}
+.desktop-1,
+.parent {
+  height: 1024px;
+  overflow: hidden;
+}
+.parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

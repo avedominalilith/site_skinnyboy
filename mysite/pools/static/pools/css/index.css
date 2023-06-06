@@ -1,0 +1,360 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-spline-sans-mono: "Spline Sans Mono";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-109xl: 128px;
+  --font-size-17xl: 36px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red-100: #ff0000;
+  --color-black: #000;
+}
+.boy {
+  color: var(--color-red-100);
+}
+.boy-container {
+  position: absolute;
+  top: 29px;
+  left: 320px;
+  font-size: var(--font-size-17xl);
+  line-height: 100%;
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.span {
+  color: #ff0303;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 136px;
+  left: 63px;
+  line-height: 100%;
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.div1,
+.div2,
+.div3 {
+  top: 171px;
+}
+.div2,
+.div3 {
+  top: 206px;
+}
+.div3 {
+  top: 276px;
+}
+.span4 {
+  color: #ff0f0f;
+}
+.div4,
+.div5,
+.div6,
+.div7 {
+  position: absolute;
+  top: 311px;
+  left: 63px;
+  line-height: 100%;
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.div5,
+.div6,
+.div7 {
+  top: 370px;
+}
+.div6,
+.div7 {
+  top: 403px;
+}
+.div7 {
+  top: 438px;
+}
+.span8 {
+  color: var(--color-black);
+}
+.div8,
+.div9 {
+  position: absolute;
+  left: 63px;
+  line-height: 100%;
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.div8 {
+  top: 512px;
+  color: var(--color-red-100);
+}
+.div9 {
+  top: 547px;
+  color: #f90000;
+}
+.gigachad-1-icon {
+  position: absolute;
+  top: 75px;
+  left: 1056px;
+  width: 349px;
+  height: 192px;
+  object-fit: cover;
+}
+.syntrax {
+  top: 889px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 237px;
+  height: 35px;
+}
+.div10,
+.matrix-20-907-container,
+.syntrax {
+  position: absolute;
+  left: 79px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.matrix-20-907-container {
+  top: 911px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 220px;
+}
+.div10 {
+  top: 932px;
+  color: var(--color-red-100);
+}
+.protein2-1-icon {
+  position: absolute;
+  top: 636px;
+  left: 0;
+  width: 259px;
+  height: 233px;
+  object-fit: cover;
+}
+.syntrax1 {
+  top: 1312px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 237px;
+  height: 35px;
+}
+.div11,
+.matrix-20-907-container1,
+.syntrax1 {
+  position: absolute;
+  left: 79px;
+  line-height: 100%;
+  font-weight: 700;
+}
+.matrix-20-907-container1 {
+  top: 1334px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 220px;
+}
+.div11 {
+  top: 1355px;
+  color: var(--color-red-100);
+}
+.protein2-2-icon {
+  position: absolute;
+  top: 1059px;
+  left: 0;
+  width: 259px;
+  height: 233px;
+  object-fit: cover;
+}
+.div12 {
+  position: absolute;
+  top: 689px;
+  left: 299px;
+  font-size: var(--font-size-109xl);
+  line-height: 100%;
+  font-weight: 700;
+}
+.scitec-nutrition {
+  top: 889px;
+  font-size: var(--font-size-xl);
+  width: 214px;
+}
+.creatine-300-container,
+.div13,
+.scitec-nutrition {
+  position: absolute;
+  left: 460px;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.creatine-300-container {
+  top: 915px;
+  font-size: var(--font-size-xl);
+  width: 256px;
+}
+.div13 {
+  top: 932px;
+  color: var(--color-red-100);
+  width: 75px;
+}
+.creatine3-1-icon {
+  position: absolute;
+  top: 628px;
+  left: 396px;
+  width: 294px;
+  height: 249px;
+  object-fit: cover;
+}
+.scitec-nutrition1 {
+  top: 1320px;
+  font-size: var(--font-size-xl);
+  width: 214px;
+}
+.creatine-300-container1,
+.div14,
+.scitec-nutrition1 {
+  position: absolute;
+  left: 471px;
+  line-height: 100%;
+  font-weight: 700;
+  display: inline-block;
+}
+.creatine-300-container1 {
+  top: 1346px;
+  font-size: var(--font-size-xl);
+  width: 256px;
+}
+.div14 {
+  top: 1363px;
+  color: var(--color-red-100);
+  width: 75px;
+}
+.creatine3-2-icon {
+  position: absolute;
+  top: 1059px;
+  left: 407px;
+  width: 294px;
+  height: 249px;
+  object-fit: cover;
+}
+.div15 {
+  top: 689px;
+  left: 734px;
+  font-size: var(--font-size-109xl);
+}
+.div15,
+.div16,
+.div17,
+.div18 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div16 {
+  top: 1112px;
+  left: 1141px;
+  font-size: var(--font-size-109xl);
+}
+.div17,
+.div18 {
+  font-size: var(--font-size-45xl);
+}
+.div17 {
+  top: 657px;
+  left: 819px;
+  color: #bbb2b2;
+}
+.div18 {
+  top: 721px;
+  left: 855px;
+  color: var(--color-red-100);
+}
+.div19 {
+  top: 1112px;
+  left: 299px;
+  font-size: var(--font-size-109xl);
+}
+.academy-t,
+.div19,
+.div20,
+.sportein-gainer-750-container {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div20 {
+  top: 1112px;
+  left: 734px;
+  font-size: var(--font-size-109xl);
+}
+.academy-t,
+.sportein-gainer-750-container {
+  font-size: var(--font-size-xl);
+}
+.academy-t {
+  top: 1319px;
+  left: 880px;
+  display: inline-block;
+  width: 209px;
+}
+.sportein-gainer-750-container {
+  top: 1344px;
+  left: 867px;
+}
+.gainer2-1-icon {
+  position: absolute;
+  top: 1052px;
+  left: 880px;
+  width: 193px;
+  height: 264px;
+  object-fit: cover;
+}
+.div21,
+.div22,
+.div23 {
+  position: absolute;
+  line-height: 100%;
+  font-weight: 700;
+}
+.div21 {
+  top: 1367px;
+  left: 880px;
+  color: var(--color-red-100);
+}
+.div22,
+.div23 {
+  left: 1249px;
+  font-size: var(--font-size-45xl);
+}
+.div22 {
+  top: 1080px;
+  color: #9c9c9c;
+}
+.div23 {
+  top: 1144px;
+  color: var(--color-red-100);
+}
+.wireframe-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1703px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-spline-sans-mono);
+}

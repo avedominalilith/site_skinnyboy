@@ -1,0 +1,134 @@
+ body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-spline-sans-mono: "Spline Sans Mono";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-red-100: #ff0000;
+}  .aboutus {
+  position: absolute;
+  top: 264px;
+  left: 125px;
+  font-weight: 900;
+  color: var(--color-red-100);
+}
+.div {
+  top: 305px;
+}
+.div,
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  left: 124px;
+  font-weight: 900;
+}
+.div1 {
+  top: 334px;
+  display: flex;
+  align-items: center;
+  width: 495px;
+}
+.div2,
+.div3 {
+  top: 363px;
+}
+.div3 {
+  top: 392px;
+}
+.span {
+  color: var(--color-red-100);
+}
+.span7 {
+  color: #ff1818;
+}
+.txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.div4,
+.div5 {
+  position: absolute;
+  top: 472px;
+  left: 120px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 1382px;
+}
+.div5 {
+  top: 610px;
+  left: 124px;
+  width: 1378px;
+}
+.sert-1-icon {
+  position: absolute;
+  top: 755px;
+  left: 125px;
+  width: 294px;
+  height: 282px;
+  object-fit: cover;
+}
+.gost-photoroom-1-icon,
+.iso-1-icon {
+  position: absolute;
+  top: 706px;
+  left: 439px;
+  width: 640px;
+  height: 316px;
+  object-fit: cover;
+}
+.iso-1-icon {
+  top: 683px;
+  left: 1089px;
+  width: 349px;
+  height: 362px;
+}
+.aboutus-parent {
+  position: absolute;
+  top: -21px;
+  left: -67px;
+  width: 1500px;
+  height: 1068px;
+  overflow: hidden;
+}
+.span10 {
+  color: #ff0202;
+}
+.span11 {
+  color: #ff0505;
+}
+.span12 {
+  color: #f80404;
+}
+.div6 {
+  position: absolute;
+  top: 29px;
+  left: 53px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 833px;
+  height: 205px;
+}
+.aboutme {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1047px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
