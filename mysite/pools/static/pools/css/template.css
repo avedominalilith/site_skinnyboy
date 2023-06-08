@@ -1,4 +1,4 @@
-    body {
+ body {
   margin: 0;
   line-height: normal;
 }
@@ -6,12 +6,20 @@
 :root {
   /* fonts */
   --font-spline-sans-mono: "Spline Sans Mono";
+  --font-inter: Inter;
 
   /* font sizes */
   --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
 
   /* Colors */
-  --color-red: #000;
+  --color-white: #fff;
+  --color-red-100: #ff0202;
+  --color-red-200: #ff0000;
+  --color-black: #000;
+  --color-mediumblue-100: #0046fb;
 }
  .button,
 .button1,
@@ -30,13 +38,11 @@
   display: inline-block;
 }
 
-.skinnyboy{
-  top: 38px;
-  left: 0;
+.skinnyboy {
+  left: 51px;
   font-size: 36px;
   font-weight: 700;
-  text-align: center;
-  width: 229px;
+  color: var(--color-red-200);
 }
 .button,
 .button1,
